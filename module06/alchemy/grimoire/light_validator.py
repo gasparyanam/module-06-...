@@ -1,0 +1,1 @@
+"""Light spellbook validation helpers."""

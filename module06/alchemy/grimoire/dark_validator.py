@@ -1,0 +1,1 @@
+"""Dark spellbook validation helpers."""
