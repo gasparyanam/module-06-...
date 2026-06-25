@@ -1,1 +1,5 @@
-"""ft_kaboom_0 placeholder."""
+
+
+print("=== Kaboom 0 ===")
+print("Using grimoire module directly")
+print("Testing record light spell: {}")
